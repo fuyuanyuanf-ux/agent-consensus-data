@@ -1,0 +1,5 @@
+Case,T1,FC,Consensus_degree
+Case 1,"{0}","{0}",0.904
+Case 2,"{O7}","{O1, O2}",0.860
+Case 3,"{O1, O2, O3, O4, O5}","Ø",0.865
+Case 4,"{O1, O2, O3, O4, O5}","{O1, O2, O3, O4, O5, O6, O7}",0.853

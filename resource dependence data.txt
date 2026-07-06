@@ -1,0 +1,2 @@
+Resource,r12,r14,r34,r36,r42,r45,r47
+Resource_Value,8,6,2,9,8,9,3
